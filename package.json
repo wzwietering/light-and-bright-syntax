@@ -1,0 +1,15 @@
+{
+  "name": "wz-theme-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Bright colors on a dark background",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/wzwietering/wz-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

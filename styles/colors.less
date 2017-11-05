@@ -1,10 +1,8 @@
-// These colors are specific to the theme. Do not use in a package!
-
-@very-light-gray: #ededed;
-@light-gray: #c1c1c1;
-@gray: #373737;
-@dark-gray: #2b2b2b;
-@very-dark-gray: #161616;
+@very-light-gray: lighten(@gray, 60%);
+@light-gray: lighten(@gray, 50%);
+@gray: #454545;
+@dark-gray: darken(@gray, 10%);
+@very-dark-gray: darken(@gray, 20%);
 
 @cyan: #009e9e;
 @blue: #00aedb;
@@ -15,3 +13,4 @@
 @light-orange: lighten(@orange, 10%);
 @seagreen: mix(@blue, @green);
 @transparent-blue: fadeout(@blue, 60%);
+@pink: #e8007d;

@@ -1,13 +1,13 @@
 {
-  "name": "wz-theme-syntax",
+  "name": "light-and-bright-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "Bright colors on a dark background",
+  "description": "Bright colors on a light background",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/wzwietering/wz-theme-syntax",
+  "repository": "https://github.com/wzwietering/light-and-bright-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
